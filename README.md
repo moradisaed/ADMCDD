@@ -1,6 +1,6 @@
 # ADMCDD
 
-Small infrared target detection using absolute average difference weighted by cumulative directional derivatives
+__"Small infrared target detection using absolute average difference weighted by cumulative directional derivatives"___
 
 If you are using this code in your researches, kindly cite the following paper:
 
