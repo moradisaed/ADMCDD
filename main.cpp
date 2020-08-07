@@ -21,7 +21,7 @@ int main()
     Mat image;
     Mat img;
 
-    img= imread("/home/raman/MEGA/MEGAsync/documents/MATLAB/infrared_images/img_002.bmp", 0);
+    img= imread("path to test image", 0);
     img.convertTo(image, CV_32FC1);
     namedWindow("original image");
     imshow("original image", img);
