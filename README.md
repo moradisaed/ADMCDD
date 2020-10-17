@@ -1,4 +1,4 @@
-# ADMCDD
+# AADCDD
 
 __"Small infrared target detection using absolute average difference weighted by cumulative directional derivatives"__
 
